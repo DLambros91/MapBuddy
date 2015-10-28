@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dlambros/AndroidStudioProjects/MapBuddy/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b1a7fac58cc85b115adee653a10b6300f90951a">
+        <dex dex="/home/dlambros/AndroidStudioProjects/MapBuddy/app/build/intermediates/pre-dexed/debug/classes-f729c020e58c528a653b72c490eed03c8c3e9df5.jar" />
+    </item>
+
+</items>

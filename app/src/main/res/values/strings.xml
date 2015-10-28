@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapBuddy</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_latitude">latitude = </string>
+    <string name="default_longitude">longitude = </string>
+    <string name="action_settings">Settings</string>
+    <string name="invalid_lat_long_used">Invalid Latitude/Longitude Used</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_found">Address Found</string>
+</resources>
